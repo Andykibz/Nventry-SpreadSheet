@@ -1,5 +1,5 @@
 # Nventry-SpreadSheet
-This is an Application that aims to utilise Google Sheets, A Web FrontEnd Framework(Vue3) and an EVM to realise an Inventory Managment System.
+This is an Application that aims to utilise Google Sheets and a Web FrontEnd Framework(Vue3) to realise an Inventory Managment System.
+Authntication is based off of Googla Oauth.
 There is no backend stack like Flask, Laravel or Django.
-The items in the Inventory will be represented as NFTs on the Ledger
-The main goal of the Project is not only to Manage Inventory but also to track Invenotry items in an MRO setup.
+The items in the Inventory will be have IDs in the form of QR Codes.
